@@ -1,0 +1,25 @@
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.deps.json
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.csproj.CopyComplete
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.deps.json
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.csproj.CopyComplete
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.Repositories.SQL\obj\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.pdb

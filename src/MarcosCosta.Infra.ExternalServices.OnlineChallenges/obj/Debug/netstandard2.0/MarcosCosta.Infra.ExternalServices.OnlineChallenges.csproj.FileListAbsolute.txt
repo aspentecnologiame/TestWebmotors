@@ -1,0 +1,25 @@
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.deps.json
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.csproj.CopyComplete
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.deps.json
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.csproj.CopyComplete
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.ExternalServices.OnlineChallenges\obj\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.pdb

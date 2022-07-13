@@ -1,0 +1,25 @@
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Service.deps.json
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Service.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Service.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.csproj.CopyComplete
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Service.deps.json
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Service.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Service.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.csproj.CopyComplete
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Service\obj\Debug\netstandard2.0\MarcosCosta.Service.pdb

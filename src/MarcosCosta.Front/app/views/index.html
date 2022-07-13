@@ -1,0 +1,129 @@
+﻿<div class="div-controller" ng-controller="indexController as indexCtrl">
+    <section class="content">
+        <div class="card card-info">
+            <div class="card-header">
+                <h3 class="card-title card-title-font">Cadastre aqui seu veículo</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label>Marca</label>
+                            <ui-select ng-model="indexCtrl.Veiculo.Marca" theme="select2" ng-disabled="disabled" style="width: 100% !important;" title="Selecione a Marca" on-select="indexCtrl.MarcaSelecionada($select.selected)">
+                                <ui-select-match placeholder="Selecione a marca ou pesquise....">{{$select.selected.name}}</ui-select-match>
+                                <ui-select-choices repeat="make.name as make in indexCtrl.Marcas | filter: $select.search track by make.name">
+                                    <div ng-bind-html="make.name | highlight: $select.search"></div>
+                                    <small>
+                                        id: {{make.id}}
+                                    </small>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label>Modelo</label>
+                            <ui-select ng-model="indexCtrl.Veiculo.Modelo" theme="select2" ng-disabled="disabled" style="width: 100% !important;" title="Selecione o Modelo" on-select="indexCtrl.ModeloSelecionado($select.selected)">
+                                <ui-select-match placeholder="Selecione o modelo ou pesquise....">{{$select.selected.name}}</ui-select-match>
+                                <ui-select-choices repeat="model.name as model in indexCtrl.Modelos | filter: $select.search track by model.name">
+                                    <div ng-bind-html="model.name | highlight: $select.search"></div>
+                                    <small>
+                                        id: {{model.id}}
+                                    </small>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label>Versão</label>
+                            <ui-select ng-model="indexCtrl.Veiculo.Versao" theme="select2" ng-disabled="disabled" style="width: 100% !important;" title="Selecione a Versão" on-select="indexCtrl.VersaoSelecionada($select.selected)">
+                                <ui-select-match placeholder="Selecione a versão ou pesquise....">{{$select.selected.name}}</ui-select-match>
+                                <ui-select-choices repeat="version.name as version in indexCtrl.Versoes | filter: $select.search track by version.name">
+                                    <div ng-bind-html="version.name | highlight: $select.search"></div>
+                                    <small>
+                                        id: {{version.id}}
+                                    </small>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- /.col -->
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Ano</label>
+                            <input type="number" class="form-control" ng-model="indexCtrl.Veiculo.Ano" />
+                        </div>
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <div class="form-group">
+                                <label>Quilometragem</label>
+                                <input type="number" class="form-control" ng-model="indexCtrl.Veiculo.Quilometragem" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <div class="form-group">
+                                <label>Observações</label>
+                                <input type="text" class="form-control" ng-model="indexCtrl.Veiculo.Observacao" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <div class="form-group">
+                                <label>&nbsp;</label>
+                                <input type="button" class="form-control btn btn-primary" value="Modal" ng-click="indexCtrl.OpenModal('Deseja Salvar os Dados desse veículo?', indexCtrl.Save)" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <br>
+                        <input type="text" class="form-control text-search" placeholder="Pesquisar..." ng-keyup="indexCtrl.FullSearch()" ng-model="indexCtrl.TextSearch" />
+                        <div ui-grid="indexCtrl.gridOptions" ui-grid-edit ui-grid-row-edit ui-grid-cellNav ui-grid-selection ui-grid-pagination class="grid"></div>
+                    </div>
+                    <script type="text/ng-template" id="uiSelect">
+                        <ui-select-wrap>
+                            <ui-select ng-model="MODEL_COL_FIELD" theme="selectize" ng-disabled="disabled" append-to-body="true">
+                                <ui-select-match placeholder="Selecione...">{{ COL_FIELD.gender }}</ui-select-match>
+                                <ui-select-choices repeat="item in col.colDef.editDropdownOptionsArray | filter: $select.search">
+                                    <span>{{ item.gender }}</span>
+                                </ui-select-choices>
+                            </ui-select>
+                        </ui-select-wrap>
+                    </script>
+                    <script type="text/ng-template" id="uiDblClick">
+                        <div ng-dblclick="grid.appScope.rowDblClick(row, col)" ng-repeat="(colRenderIndex, col) in colContainer.renderedColumns track by col.colDef.name" class="ui-grid-cell"
+                             ng-class="{'ui-grid-row-header-cell' : col.isRowHeader }" ui-grid-cell context-menu="grid.appScope.contextmenuOptions(row)" data-target="myMenu"></div>
+                    </script>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div ng-show="indexCtrl.ShowDivCallBackMessage" ng-class="indexCtrl.CallBackSuccess ? 'card card-success' : 'card card-danger'" class="card card-success">
+                            <div class="card-header">
+                                <span class="span-message" ng-click="indexCtrl.ShowDivCallBackMessage = false">[ X ]</span>
+                                {{indexCtrl.CallBackMessage}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+                <!-- /.card-body -->
+                <div class="card-footer">
+                    Agradeço a oportunidade em participar desse desafio. Atenciosamente, Marcos Roberto da Costa - 26/08/2021
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

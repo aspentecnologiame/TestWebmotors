@@ -1,0 +1,19 @@
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\bin\Debug\netstandard2.0\MarcosCosta.Domain.deps.json
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\bin\Debug\netstandard2.0\MarcosCosta.Domain.deps.json
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste Webmotors\src\MarcosCosta.Domain\obj\Debug\netstandard2.0\MarcosCosta.Domain.csproj.AssemblyReference.cache

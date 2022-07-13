@@ -1,0 +1,112 @@
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\MarcosCosta.Front.dll.config
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\MarcosCosta.Front.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\MarcosCosta.Front.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\csc.exe
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\csc.exe.config
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\csc.rsp
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\csi.exe
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\csi.rsp
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\System.AppContext.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\vbc.exe
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\vbc.exe.config
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\vbc.rsp
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Antlr3.Runtime.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Newtonsoft.Json.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Helpers.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Mvc.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Optimization.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Razor.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.WebPages.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\WebGrease.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Helpers.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Mvc.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Optimization.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.Razor.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.WebPages.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Newtonsoft.Json.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Antlr3.Runtime.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.csproj.CopyComplete
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\MarcosCosta.Front.dll.config
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\MarcosCosta.Front.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\MarcosCosta.Front.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\csc.exe
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\csc.exe.config
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\csc.rsp
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\csi.exe
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\csi.rsp
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\System.AppContext.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\vbc.exe
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\vbc.exe.config
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\vbc.rsp
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Antlr3.Runtime.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Newtonsoft.Json.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Helpers.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Mvc.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Optimization.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Razor.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.WebPages.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\WebGrease.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Helpers.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Mvc.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Optimization.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.Razor.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.WebPages.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Newtonsoft.Json.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Antlr3.Runtime.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.csproj.CopyComplete
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Front\obj\Debug\MarcosCosta.Front.pdb

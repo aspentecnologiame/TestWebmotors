@@ -1,0 +1,37 @@
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.deps.json
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Service.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Service.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.csproj.CopyComplete
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.pdb
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.dll
+C:\Users\Marcos\Documents\Visual Studio 2019\Projects\MarcosCosta\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.deps.json
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Domain.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Service.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Domain.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.ExternalServices.OnlineChallenges.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Infra.Repositories.SQL.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\bin\Debug\netstandard2.0\MarcosCosta.Service.pdb
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.csproj.CopyComplete
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.dll
+C:\Users\Marcos\Documents\Teste WebMotors\src\MarcosCosta.Infra.CrossCutting.Extensions\obj\Debug\netstandard2.0\MarcosCosta.Infra.CrossCutting.Extensions.pdb
